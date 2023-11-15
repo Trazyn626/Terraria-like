@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - player
+  - enemy
+  - ground
+  - ammo
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - loot
+  - ground
+  - damageable
+  - dead
+  - player
+  - dialoguetirgger
+  - rangeattack
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: background
+    uniqueID: 4152113559
+    locked: 0
+  - name: enemy
+    uniqueID: 888485829
+    locked: 0
+  - name: player
+    uniqueID: 2178816845
+    locked: 0
+  - name: ground
+    uniqueID: 4025073055
+    locked: 0
+  - name: envirment
+    uniqueID: 1082826487
+    locked: 0
+  - name: frontenvirment
+    uniqueID: 2848831807
+    locked: 0
+  - name: UI
+    uniqueID: 1173855531
+    locked: 0

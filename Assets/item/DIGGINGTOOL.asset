@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0b6aa7f566d50434eaf1fb0f56d91492, type: 3}
+  m_Name: DIGGINGTOOL
+  m_EditorClassIdentifier: 
+  damage: 10
+  usingSpeed: 0.3
+  miningPower: 50
+  minestable: 0
+  ammo: {fileID: 0}
+  manacost: 0
+  tile: {fileID: 0}
+  type: 1
+  actionType: 0
+  range: {x: 8, y: 7}
+  stackable: 0
+  image: {fileID: 633757327, guid: 43cc1954b518be44d8a4d1b55e153036, type: 3}
+  iteamscale: 0
